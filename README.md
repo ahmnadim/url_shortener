@@ -27,4 +27,7 @@
 3. **RUN the app**
    CD into project root and RUN **npm run start:dev** Command and that's it. project should be up and running.
 
+4. **API docs**
+   Navigate to **localhost:3000/api-doc** to test the api.
+
 **HAPPY TESTING**
